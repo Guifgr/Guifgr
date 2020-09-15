@@ -5,5 +5,5 @@
 ### Aqui está minha steam! 
 #### "A unica diferença entre codar e jogar é a posição do teclado, pois, amo fazer os dois!"
 
-<h3>Bora x1?</h3><a href="https://github.com/Guifgr/Guifgr/blob/master/1010101010101.png"></a><img src="1010101010101.png" alt="catyeah" width="50"/>
+<h3>Bora x1?</h3><a href="/Guifgr/Guifgr/blob/master/1010101010101.png?raw=true"></a><img src="1010101010101.png" alt="catyeah" width="50"/>
  
