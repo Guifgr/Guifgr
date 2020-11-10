@@ -1,7 +1,7 @@
 # Prazer me chamo Guilherme e aqui estão alguns detalhes do que estou aprendendo e aplicando! 
 
 
-## JavaScript <img align="left" alt="JS" width="40px" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" />
+## JavaScript <img align="left" alt="JS" width="35px" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" />
 
 ##### [1. Repositório usando api git ](https://github.com/Guifgr/MyFirstApi)
 > NODE.JS + EJS + EXPRESS + MONGODB
