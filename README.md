@@ -1,14 +1,16 @@
 # Prazer me chamo Guilherme e aqui estão alguns detalhes do que estou aprendendo e aplicando! 
 
-## JS
+
+## JavaScript <img align="left" alt="JS" width="30px" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" />
+
 ##### [1. Repositório usando api git ](https://github.com/Guifgr/MyFirstApi)
 > NODE.JS + EJS + EXPRESS + MONGODB
 
  ##### [2. Blog usando node e bootstrap](https://github.com/Guifgr/MarkdownBlog)
 > NODE.JS + EJS + EXPRESS + MONGODB
 
-
-## PHP 
+## PHP <img align="left" alt="PHP" width="55px" src="http://pngimg.com/uploads/php/php_PNG50.png" />
+ 
 ##### [Meu site!](https://guilhermefgr.com.br/)
 > PHP + React
 
@@ -18,11 +20,13 @@
 ##### [Império das Palmeiras](http://imperiodaspalmeiras.com.br/)
 > PHP + HTML + CSS
 
-## JAVA
+## JAVA <img align="left" alt="Java" width="50px" src="https://logospng.org/download/java/logo-java-4096.png" />
+ 
 ##### [Projeto Java Web](https://github.com/Guifgr/ProjetoJava4sem)
 > JAVA  + POSTGRESQL + MVC + DAO + OO
 
-## PYTHON 
+## Python <img align="left" alt="Python" width="30px" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" />
+ 
 ##### [Auto Config](https://github.com/Guifgr/AutoConfig)
 > PYTHON ❤
 
