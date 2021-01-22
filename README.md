@@ -1,5 +1,13 @@
 # Prazer me chamo Guilherme e aqui estão alguns detalhes do que estou aprendendo e aplicando! 
 
+## JAVA SPRING <img align="left" alt="Java" width="70px" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" />
+##### [Projeto Java Web](https://github.com/Guifgr/First_Spring_API)
+> JAVA + Spring  + MYSQL + API + OO
+
+## JAVA <img align="left" alt="Java" width="50px" src="https://logospng.org/download/java/logo-java-4096.png" />
+ 
+##### [Projeto Java Web](https://github.com/Guifgr/ProjetoJava4sem)
+> JAVA +JSP  + POSTGRESQL + MVC + DAO + OO
 
 ## JavaScript <img align="left" alt="JS" width="35px" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" />
 
@@ -19,11 +27,6 @@
 
 ##### [Império das Palmeiras](http://imperiodaspalmeiras.com.br/)
 > PHP + HTML + CSS
-
-## JAVA <img align="left" alt="Java" width="50px" src="https://logospng.org/download/java/logo-java-4096.png" />
- 
-##### [Projeto Java Web](https://github.com/Guifgr/ProjetoJava4sem)
-> JAVA  + POSTGRESQL + MVC + DAO + OO
 
 ## Python <img align="left" alt="Python" width="30px" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" />
  
