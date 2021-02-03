@@ -1,5 +1,9 @@
 # Prazer me chamo Guilherme e aqui estão alguns detalhes do que estou aprendendo e aplicando! 
 
+## >C# .NET CORE <img align="left" alt=".net" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" />
+##### [Projeto Api usando .NET 5.0](https://github.com/Guifgr/Meus-Produtos)
+> C# + .NET  + MYSQL + API + OO + Migrations
+
 ## JAVA SPRING <img align="left" alt="Java" width="70px" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" />
 ##### [Projeto Api usando Spring](https://github.com/Guifgr/First_Spring_API)
 > JAVA + Spring  + MYSQL + API + OO
