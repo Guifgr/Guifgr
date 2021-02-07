@@ -1,47 +1,48 @@
-# Prazer me chamo Guilherme e aqui estão alguns detalhes do que estou aprendendo e aplicando! 
+<h1 align="center">I'm Guilherme Rocha</h1>
+<h3 align="center">A back-end dev starting in the web developer world</h3>
 
-## C# .NET CORE <img align="left" alt=".net" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" />
-##### [Projeto Api usando .NET 5.0](https://github.com/Guifgr/Meus-Produtos)
-> C# + .NET  + MYSQL + API + OO + Migrations
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guifgr" alt="guifgr" /></a> </p>
 
-## JAVA SPRING <img align="left" alt="Java" width="70px" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" />
-##### [Projeto Api usando Spring](https://github.com/Guifgr/First_Spring_API)
-> JAVA + Spring  + MYSQL + API + OO
+- 🌱 I’m currently learning **.NET and want to lean GoLang**
 
-## JAVA <img align="left" alt="Java" width="50px" src="https://logospng.org/download/java/logo-java-4096.png" />
- 
-##### [Projeto Java Web](https://github.com/Guifgr/ProjetoJava4sem)
-> JAVA +JSP  + POSTGRESQL + MVC + DAO + OO
+- 👨‍💻 All of my projects are available at [https://github.com/Guifgr](https://github.com/Guifgr)
 
-## JavaScript <img align="left" alt="JS" width="35px" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" />
+- 💬 Ask me about **Java, .Net and Python**
 
-##### [1. Repositório usando api git ](https://github.com/Guifgr/MyFirstApi)
-> NODE.JS + EJS + EXPRESS + MONGODB
+- 📫 How to reach me **<a target="_top" href="mailto:guifgr@hotmail.com">guifgr@hotmail.com</a>**
 
- ##### [2. Blog usando node e bootstrap](https://github.com/Guifgr/MarkdownBlog)
-> NODE.JS + EJS + EXPRESS + MONGODB
+- 📄 Know about my experiences [My resume](https://docs.google.com/document/d/1d03uJFsnfnjoNAO7hfaJf2-gXhb7Yup30gwEL6Q0L5w/edit?usp=sharing)
 
-## PHP <img align="left" alt="PHP" width="55px" src="http://pngimg.com/uploads/php/php_PNG50.png" />
- 
-##### [Meu site!](https://guilhermefgr.com.br/)
-> PHP + React
+- ⚡ Fun fact **I like ducks and video-games**
 
-##### [Chalés Triunfo](https://chalestriunfo.com.br/)
-> PHP + HTML + CSS
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/guifgr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="guifgr" height="30" width="40" /></a>
+<a href="https://instagram.com/guifgr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="guifgr" height="30" width="40" /></a>
+<a href="https://discord.gg/Guifgr#9773" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Guifgr#9773" height="30" width="40" /></a>
+</p>
 
-##### [Império das Palmeiras](http://imperiodaspalmeiras.com.br/)
-> PHP + HTML + CSS
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+<a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
+<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+<a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a>
 
-## Python <img align="left" alt="Python" width="30px" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" />
- 
-##### [Auto Config](https://github.com/Guifgr/AutoConfig)
-> PYTHON ❤
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guifgr&layout=compact&theme=nightowl" alt="guifgr" /></p>
 
-### Seja muito bem vindo ao meu canto onde coloco tudo que tenho em mente, sinta-se livre pra usar, melhorar, fazer pull request e o que quiser com a unica condição de melhorar a comunidade!
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guifgr&show_icons=true&locale=en&theme=nightowl" alt="guifgr" /></p>
+
 <img src="https://i.pinimg.com/originals/57/f8/8e/57f88e49872cb11e9fe4b0cad4669881.gif" width="800"/>
-
-### Aqui está minha steam! 
-#### "A unica diferença entre codar e jogar é a posição do teclado, pois, amo fazer os dois!"
-
-<h3>Bora x1?</h3><a href="https://steamcommunity.com/profiles/76561198127663591/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Steam_Logo.png" alt="catyeah" width="50"/></a>
- 
