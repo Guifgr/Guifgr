@@ -1,7 +1,7 @@
 <h1 align="center">I'm Guilherme Rocha</h1>
 <h3 align="center">A back-end dev starting in the web developer world</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guifgr" alt="guifgr" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guifgr&theme=darkhub" alt="guifgr" /></a> </p>
 
 - 🌱 I’m currently learning **.NET and want to lean GoLang**
 
