@@ -41,8 +41,14 @@
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guifgr&layout=compact&theme=nightowl" alt="guifgr" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guifgr&show_icons=true&locale=en&theme=nightowl" alt="guifgr" /></p>
+<center>
+<table>
+  <tr>
+      <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guifgr&layout=compact&theme=nightowl" alt="guifgr" /></td>
+      <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=guifgr&show_icons=true&locale=en&theme=nightowl" alt="guifgr" /></td>
+  </tr>  
+</table>
+</center>
 
 <img src="https://i.pinimg.com/originals/57/f8/8e/57f88e49872cb11e9fe4b0cad4669881.gif" width="800"/>
