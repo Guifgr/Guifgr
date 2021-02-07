@@ -45,8 +45,8 @@
 <center>
 <table>
   <tr>
-      <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guifgr&layout=compact&theme=nightowl" alt="guifgr" /></td>
-      <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=guifgr&show_icons=true&locale=en&theme=nightowl" alt="guifgr" /></td>
+      <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guifgr&layout=compact&theme=tokyonight" alt="guifgr" /></td>
+      <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=guifgr&show_icons=true&locale=en&theme=tokyonight" alt="guifgr" /></td>
   </tr>  
 </table>
 </center>
