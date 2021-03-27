@@ -3,24 +3,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guifgr&theme=darkhub" alt="guifgr" /></a> </p>
 
-- 🌱 I’m currently learning **.NET and want to learn GoLang**
+- 🌱 I’m currently learning **[.NET](https://dotnet.microsoft.com/) work and [GoLang](https://golang.org/) by myself and [Java](https://www.java.com/) in university**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Guifgr](https://github.com/Guifgr)
 
-- 💬 Ask me about **Java and .Net**
-
 - 📫 How to reach me **<a target="_top" href="mailto:guifgr@hotmail.com">guifgr@hotmail.com</a>**
 
-- 📄 Know about my experiences [My resume](https://docs.google.com/document/d/1d03uJFsnfnjoNAO7hfaJf2-gXhb7Yup30gwEL6Q0L5w/edit?usp=sharing)
+- 📄 Know about my experiences [My resume](https://drive.google.com/file/d/1tktAnvvLAu6i_-PGFIm6LFv2hdG6w2sW/view?usp=sharing)
 
-- ⚡ Fun fact **I like ducks and video-games**
+- ⚡ Fun fact **I like ducks and video-games and while loop dont exists in GO lang**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/guifgr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="guifgr" height="30" width="40" /></a>
 <a href="https://instagram.com/guifgr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="guifgr" height="30" width="40" /></a>
-<a href="https://discord.gg/Guifgr#9773" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Guifgr#9773" height="30" width="40" /></a>
-</p>
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Guifgr#9773" height="30" width="40" /> - Guifgr#9773
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
