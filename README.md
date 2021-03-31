@@ -38,7 +38,7 @@
 <center>
 <table>
   <tr>
-      <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guifgr&layout=compact&theme=midnight-purple" alt="guifgr" /></td>
+      <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guifgr&langs_count=6&layout=compact&theme=midnight-purple" alt="guifgr" /></td>
       <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=guifgr&show_icons=true&locale=en&theme=midnight-purple" alt="guifgr" /></td>
   </tr>  
 </table>
