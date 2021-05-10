@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **<a target="_top" href="mailto:guifgr@hotmail.com">guifgr@hotmail.com</a>**
 
-- 📄 Know about my experiences [My resume](https://drive.google.com/file/d/1tktAnvvLAu6i_-PGFIm6LFv2hdG6w2sW/view?usp=sharing)
+- 📄 Know about my experiences [My resume](https://drive.google.com/file/d/1Vmy7LLth7QMh4Ck13zWeqJv8xhD-3EJo/view?usp=sharing)
 
 - ⚡ Fun fact **I like ducks and video-games and while loop dont exists in GO lang**
 
