@@ -1,9 +1,11 @@
 <h1 align="center">I'm Guilherme Rocha</h1>
 <h3 align="center">A back-end dev starting in the web developer world</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guifgr&theme=darkhub" alt="guifgr" /></a> </p>
+<p align="center">
+   <img src="https://github-profile-trophy.vercel.app/?username=guifgr&theme=darkhub&row=1" alt="guifgr" />
+</p>
 
-- 🌱 I’m currently learning **[.NET](https://dotnet.microsoft.com/) work and [GoLang](https://golang.org/) by myself and [Java](https://www.java.com/) in university**
+- 🌱 I’m currently learning and working with **[.NET](https://dotnet.microsoft.com/), coding some stuff in [GoLang](https://golang.org/) and [Flutter](https://flutter.dev/) and a lot of [Java](https://www.java.com/) in university**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Guifgr](https://github.com/Guifgr)
 
@@ -18,22 +20,48 @@
 <a href="https://linkedin.com/in/guifgr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="guifgr" height="30" width="40" /></a>
 <a href="https://instagram.com/guifgr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="guifgr" height="30" width="40" /></a>
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Guifgr#9773" height="30" width="40" /> - Guifgr#7922
+  
+ ---
 
 <h3 align="left">Languages and Tools:</h3>
+
+
+<h4 align="left">Actual work:</h4>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-<a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/150px-.NET_Logo.svg.png" alt="dotnet" width="40" height="40"/> </a>
+<a href="https://dotnet.microsoft.com/apps/aspnet/signalr" target="_blank"> <img src="https://docs.microsoft.com/en-us/answers/topics/25336/icon.html?t=168520" alt="signalR" width="40" height="40"/> </a>
+  
+[comment]: <> (DATABASES)
+  
+<h4 align="left">Used databases:</h4> 
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="40"/> </a>
+ <a href="https://mariadb.org/" target="_blank"> <img src="https://mariadb.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2019/11/mariadb-logo-vert_black-transparent-300x245.png.webp" alt="mariaDB" height="40"/> </a>
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+<a href="https://www.sqlite.org/index.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png" alt="sqlite" width="40" height="40"/> </a> 
+  
+[comment]: <> (Plataforms and Tools:)
+  
+<h4 align="left">Plataforms and Tools:</h4>  
+<a href="https://github.com/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+<a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
+<a href="https://www.atlassian.com/br/software/jira" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" alt="jira" width="40" height="40"/> </a>
+<a href="https://slack.com/intl/pt-br/" target="_blank"> <img src="https://logodownload.org/wp-content/uploads/2019/08/slack-logo-3.png" alt="slack" width="40" height="40"/> </a>
 
+[comment]: <> (JUST FOR FUN)
+
+<h4 align="left">University languages or code just for fun:</h4>
+
+<a href="https://flutter.dev/" target="_blank"> <img src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png" alt="flutter" height="40"/> </a>
+<a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://pt-br.reactjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" height="43"/> </a>
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+
+---
 
 <center>
 <table>
