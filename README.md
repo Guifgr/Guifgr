@@ -72,4 +72,4 @@
 </table>
 </center>
 
-<img src="https://i.pinimg.com/originals/57/f8/8e/57f88e49872cb11e9fe4b0cad4669881.gif" width="800"/>
+<img src="https://i.pinimg.com/originals/57/f8/8e/57f88e49872cb11e9fe4b0cad4669881.gif" width="100%"/>
