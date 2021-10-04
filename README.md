@@ -5,15 +5,15 @@
    <img src="https://github-profile-trophy.vercel.app/?username=guifgr&theme=darkhub&row=1" alt="guifgr" />
 </p>
 
-- 🌱 I’m currently learning and working with **[.NET](https://dotnet.microsoft.com/), coding some stuff in [GoLang](https://golang.org/) and [Flutter](https://flutter.dev/) and a lot of [Java](https://www.java.com/) in university**
+- 🌱 I’m currently learning and working with **[.NET](https://dotnet.microsoft.com/), coding some stuff in [GoLang](https://golang.org/), [Flutter](https://flutter.dev/) and a lot of [Java](https://www.java.com/) in university**.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Guifgr](https://github.com/Guifgr)
+- 👨‍💻 All of my projects are available at: [https://github.com/Guifgr?tab=repositories](https://github.com/Guifgr?tab=repositories).
 
-- 📫 How to reach me **<a target="_top" href="mailto:guifgr@hotmail.com">guifgr@hotmail.com</a>**
+- 📫 How to reach me: **<a target="_top" href="mailto:guifgr@hotmail.com">guifgr@hotmail.com</a>**.
 
-- 📄 Know about my experiences [My resume](https://drive.google.com/file/d/1Npo6SZzQRpG9-cC2lXFvOhuSRq4XROMA/view?usp=sharing)
+- 📄 Know about my experiences: [my resume](https://drive.google.com/file/d/1Npo6SZzQRpG9-cC2lXFvOhuSRq4XROMA/view?usp=sharing).
 
-- ⚡ Fun fact **I like ducks and video-games and while loop dont exists in GO lang**
+- ⚡ Fun fact: **I like ducks, video-games and while loop doesn't exist in GoLang**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
