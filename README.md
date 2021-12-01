@@ -14,7 +14,6 @@
 - 📄 Know about my experiences: [my resume](https://drive.google.com/file/d/1Npo6SZzQRpG9-cC2lXFvOhuSRq4XROMA/view?usp=sharing).
 
 - ⚡ Fun fact: **I like ducks, video-games and while loop doesn't exist in GoLang**.
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/guifgr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="guifgr" height="30" width="40" /></a>
@@ -62,6 +61,9 @@
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 
 ---
+
+[![Visits Badge](https://badges.pufler.dev/visits/guifgr/guifgr)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/guifgr)](https://badges.pufler.dev)
 
 <center>
 <table>
