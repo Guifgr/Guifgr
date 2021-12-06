@@ -18,7 +18,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/guifgr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="guifgr" height="30" width="40" /></a>
 <a href="https://instagram.com/guifgr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="guifgr" height="30" width="40" /></a>
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Guifgr#9773" height="30" width="40" /> - Guifgr#7922
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Guifgr#9773" height="30" width="40" /> - Guifgr#7922![68747470733a2f2f61626f75742e6769746c61622e636f6d2f696d616765732f70726573732f6c6f676f2f706e672f6769746c61622d69636f6e2d7267622e706e67](https://user-images.githubusercontent.com/39571461/144866228-48ec44bc-843b-4890-9878-5ccea10526e3.png)
+
   
  ---
 
@@ -26,10 +27,12 @@
 
 
 <h4 align="left">Actual work:</h4>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+<a align="left"> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
 <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/150px-.NET_Logo.svg.png" alt="dotnet" width="40" height="40"/> </a>
 <a href="https://dotnet.microsoft.com/apps/aspnet/signalr" target="_blank"> <img src="https://docs.microsoft.com/en-us/answers/topics/25336/icon.html?t=168520" alt="signalR" width="40" height="40"/> </a>
-  
+<a href="https://pt-br.reactjs.org/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/reactjs_logo_icon_168875.png" alt="react" height="43"/> </a>
+<a href="https://about.gitlab.com/" target="_blank"> <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" alt="gitlab" height="43"/> </a>
+   
 [comment]: <> (DATABASES)
   
 <h4 align="left">Used databases:</h4> 
