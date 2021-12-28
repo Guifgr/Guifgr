@@ -18,8 +18,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/guifgr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="guifgr" height="30" width="40" /></a>
 <a href="https://instagram.com/guifgr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="guifgr" height="30" width="40" /></a>
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Guifgr#9773" height="30" width="40" /> - Guifgr#7922![68747470733a2f2f61626f75742e6769746c61622e636f6d2f696d616765732f70726573732f6c6f676f2f706e672f6769746c61622d69636f6e2d7267622e706e67](https://user-images.githubusercontent.com/39571461/144866228-48ec44bc-843b-4890-9878-5ccea10526e3.png)
-
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Guifgr#9773" height="30" width="40" /> - Guifgr#7922
   
  ---
 
