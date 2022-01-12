@@ -29,6 +29,7 @@
 <a align="left"> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
 <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/150px-.NET_Logo.svg.png" alt="dotnet" width="40" height="40"/> </a>
 <a href="https://dotnet.microsoft.com/apps/aspnet/signalr" target="_blank"> <img src="https://docs.microsoft.com/en-us/answers/topics/25336/icon.html?t=168520" alt="signalR" width="40" height="40"/> </a>
+<a href="https://www.rabbitmq.com/" target="_blank"> <img src="https://seeklogo.com/images/R/rabbitmq-logo-25641A76DE-seeklogo.com.png" alt="rabbitMQ" height="35"/> </a>
 <a href="https://pt-br.reactjs.org/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/reactjs_logo_icon_168875.png" alt="react" height="43"/> </a>
 <a href="https://about.gitlab.com/" target="_blank"> <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" alt="gitlab" height="43"/> </a>
    
