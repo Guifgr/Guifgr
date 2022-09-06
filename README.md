@@ -65,9 +65,6 @@
 
 ---
 
-[![Visits Badge](https://badges.pufler.dev/visits/guifgr/guifgr)](https://badges.pufler.dev)
-[![Years Badge](https://badges.pufler.dev/years/guifgr)](https://badges.pufler.dev)
-
 <center>
 <table>
   <tr>
