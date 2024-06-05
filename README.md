@@ -28,7 +28,7 @@
 <h4 align="left">Actual work:</h4>
 <a align="left"> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
 <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/456px-Microsoft_.NET_logo.svg.png" alt="dotnet" width="40" height="40"/> </a>
-<a href="https://dotnet.microsoft.com/apps/aspnet/signalr" target="_blank"> <img src="https://www.brainbeast.best/wp-content/uploads/2021/12/signalr.png" alt="signalR" width="40" height="40"/> </a>
+<a href="https://dotnet.microsoft.com/apps/aspnet/signalr" target="_blank"> <img src="https://camo.githubusercontent.com/7756f4d96fbae10fad3ffb32fe76b870f037f5d3c77050786ff2d70b7c25d26c/68747470733a2f2f646f63732e6d6963726f736f66742e636f6d2f73762d73652f617a7572652f6d656469612f696e6465782f617a7572652d7369676e616c722e737667" alt="signalR" width="40" height="40"/> </a>
 <a href="https://www.rabbitmq.com/" target="_blank"> <img src="https://seeklogo.com/images/R/rabbitmq-logo-25641A76DE-seeklogo.com.png" alt="rabbitMQ" height="35"/> </a>
 <a href="https://pt-br.reactjs.org/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/reactjs_logo_icon_168875.png" alt="react" height="43"/> </a>
 <a href="https://about.gitlab.com/" target="_blank"> <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" alt="gitlab" height="43"/> </a>
