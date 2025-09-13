@@ -5,7 +5,7 @@
    <img src="https://github-profile-trophy.vercel.app/?username=guifgr&theme=darkhub&row=1" alt="guifgr" />
 </p>
 
-- 🌱 I’m currently learning and working with **[.NET](https://dotnet.microsoft.com/), coding some stuff in [GoLang](https://golang.org/), [Flutter](https://flutter.dev/) and a lot of [Java](https://www.java.com/) in university**.
+- 🌱 I’m currently learning and working with **[.NET](https://dotnet.microsoft.com/), coding some stuff in [GoLang](https://golang.org/), [Flutter](https://flutter.dev/) and a lot of [Java]
 
 - 👨‍💻 All of my projects are available at: [https://github.com/Guifgr?tab=repositories](https://github.com/Guifgr?tab=repositories).
 
@@ -17,7 +17,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/guifgr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="guifgr" height="30" width="40" /></a>
-<a href="https://instagram.com/guifgr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="guifgr" height="30" width="40" /></a>
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Guifgr#9773" height="30" width="40" /> - Guifgr#7922
   
  ---
