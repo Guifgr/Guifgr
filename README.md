@@ -1,5 +1,5 @@
 <h1 align="center">I'm Guilherme Rocha</h1>
-<h3 align="center">A back-end dev starting in the web developer world</h3>
+<h3 align="center">A back-end dev in the web developer world</h3>
 
 <p align="center">
    <img src="https://github-profile-trophy.vercel.app/?username=guifgr&theme=darkhub&row=1" alt="GitHub Trophies" />
