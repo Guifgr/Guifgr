@@ -11,8 +11,6 @@
 
 - 📫 How to reach me: **<a target="_top" href="mailto:guifgr@hotmail.com">guifgr@hotmail.com</a>**.
 
-- 📄 Know about my experiences: [my resume](https://drive.google.com/file/d/13nYpz2KtmgIYGOWrzU9vcbaEA5P8sqSA/view?usp=sharing).
-
 - ⚡ Fun fact: **I like ducks, video-games and while loop doesn't exist in GoLang**.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
